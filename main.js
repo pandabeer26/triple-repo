@@ -25,4 +25,4 @@ gulp.task('lint', ()=> {
         current[index] = sets[index][i];
         cartesianProduct(sets, index + 1, current);
       }
-    }
+    }//good
